@@ -8,6 +8,7 @@
     "bindings": "^1.5.0",
     "cra-template": "1.2.0",
     "file-uri-to-path": "^2.0.0",
+    "lucide-react": "^0.474.0",
     "nan": "^2.22.0",
     "openai": "^4.80.1",
     "react": "^19.0.0",
